@@ -83,3 +83,13 @@
 .png2{
    padding-top: 7vh;
 }
+
+@media only screen and (max-width: 600px) {
+    .first{
+        padding-top:12vh;
+    }
+   .users1{
+    margin-left:0vh;
+    margin-right: 0vh;
+   }
+}
