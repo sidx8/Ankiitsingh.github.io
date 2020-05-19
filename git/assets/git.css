@@ -1,0 +1,85 @@
+.navbar{
+    padding-top:2vh;
+    padding-bottom:2vh;
+    background: #2b354f !important;
+}
+.navbar-brand{
+    font-family: 'Quicksand', sans-serif;
+    color:white !important;
+    font-weight: bolder;
+    letter-spacing:0.5vh;
+}
+.nav-link{
+    color:white !important;
+    font-family: 'Quicksand', sans-serif;
+}
+.btn3{
+    border:0px;
+    padding:1.3vh;
+    border-radius:0.7vh;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size:1.5vh;
+    background-color: #56a853;
+    color:white;
+    letter-spacing:0.3vh;
+}
+.first{
+    padding-top: 20vh;
+}
+.git-icon{
+    height: 25vh;
+}
+.ques{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 3vh;
+    letter-spacing: 0.3vh;
+    font-weight: bold;
+    padding-bottom: 3vh;
+}
+.ans{
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 0.3vh;
+    font-size: 1.9vh;
+    color:rgb(89, 106, 130);
+}
+.btn{
+    border:0px;
+    padding:1.3vh;
+    border-radius:0.7vh;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size:1.5vh;
+    background-color: rgb(56, 102, 235);
+    color:white;
+    letter-spacing:0.3vh;
+    width:10vh;
+}
+.second{
+    padding-top: 5vh;
+}
+.users{
+    padding-top:7vh;
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 0.3vh;
+    font-weight: bold;
+    font-size:3.5vh;
+}
+.users1{
+    padding-bottom: 7vh;
+    padding-top:3vh;
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 0.3vh;
+    font-size: 1.9vh;
+    margin-left:30vh;
+    margin-right: 30vh;
+    color:rgb(89, 106, 130);
+}
+.png1{
+    border-radius: 10vh;
+    height: 7vh;
+    background:#dddcdc;
+}
+.png2{
+   padding-top: 7vh;
+}

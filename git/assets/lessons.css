@@ -1,0 +1,79 @@
+.navbar{
+    padding-top:2vh;
+    padding-bottom:2vh;
+    background: #2b354f !important;
+}
+.navbar-brand{
+    font-family: 'Quicksand', sans-serif;
+    color:white !important;
+    font-weight: bolder;
+    letter-spacing:0.5vh;
+}
+.nav-link{
+    color:white !important;
+    font-family: 'Quicksand', sans-serif;
+}
+.btn3{
+    border:0px;
+    padding:1.3vh;
+    border-radius:0.7vh;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size:1.5vh;
+    background-color: #56a853;
+    color:white;
+    letter-spacing:0.3vh;
+}
+.split{
+    border-right:1px solid black;
+    padding-bottom:10vh;
+    padding-top:5vh;
+}
+.first{
+    padding-top:15vh;
+}
+.heading{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 3vh;
+    letter-spacing: 0.3vh;
+    font-weight: bold;
+    padding-bottom: 3vh;
+}
+.body{
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 0.3vh;
+    font-size: 1.9vh;
+    color:rgb(89, 106, 130);
+    padding-bottom: 5vh;
+}
+.video{
+    height:30vh;
+    width:50vh;
+}
+.foot {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #2b354f;
+    color: white;
+  }
+.btn{
+    border:0px;
+    padding:1.3vh;
+    border-radius:0.7vh;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-size:1.5vh;
+    background-color: #56a853;
+    color:white;
+    letter-spacing:0.3vh;
+    width:10vh;
+}
+.pad{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+.git-icon{
+    height: 25vh;
+}
